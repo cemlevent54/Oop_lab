@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\bin\Debug\net8.0-windows\Oop_LabExperiment4b.exe
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\bin\Debug\net8.0-windows\Oop_LabExperiment4b.deps.json
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\bin\Debug\net8.0-windows\Oop_LabExperiment4b.runtimeconfig.json
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\bin\Debug\net8.0-windows\Oop_LabExperiment4b.dll
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\bin\Debug\net8.0-windows\Oop_LabExperiment4b.pdb
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.Form1.resources
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.dll
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\refint\Oop_LabExperiment4b.dll
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.pdb
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\Oop_LabExperiment4b.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Oop_LabExperiment4b\Oop_LabExperiment4b\obj\Debug\net8.0-windows\ref\Oop_LabExperiment4b.dll
