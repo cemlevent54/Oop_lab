@@ -61,10 +61,6 @@ namespace _152120171010_152120211071_19
             {
                 listBoxMenu.ClearSelected();
             }
-            
-
-
-
         }
 
         private void listBoxCity_SelectedIndexChanged(object sender, EventArgs e)
@@ -117,17 +113,19 @@ namespace _152120171010_152120211071_19
                 
                 e.Handled = true;
             }
-
-            else if(textBox2.TextLength > 11)
-            {
-                MessageBox.Show("Telefon numarası 11 haneli olmalıdır!", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
-               
-                e.Handled = true;
-            }
-
+        
             else
             {
                 e.Handled = false;
+            }
+        }
+        
+        private void textBox2_Leave(object sender, EventArgs e)
+        {
+            if (textBox2.TextLength != 11)
+            {
+                MessageBox.Show("Telefon numarası 11 haneli olmalıdır!", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                textBox2.Focus();
             }
         }
     }
